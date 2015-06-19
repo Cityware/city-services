@@ -34,7 +34,6 @@
         "zendframework/zend-eventmanager": "You should install this package to use the events in the translator",
         "zendframework/zend-servicemanager": "Zend\\ServiceManager component"
     },
-    "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {
         "branch-alias": {
