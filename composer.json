@@ -10,9 +10,6 @@
     "autoload": {
         "psr-4": {
             "Cityware\\Services\\": "src/"
-        },
-        "psr-0": {
-            "Cityware\\Services\\": "src/"
         }
     },
     "require": {
