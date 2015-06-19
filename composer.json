@@ -1,12 +1,12 @@
 {
-    "name": "Cityware/city-services",
+    "name": "cityware/city-services",
     "description": " ",
     "license": "GPL-3.0",
     "keywords": [
         "cityware",
         "services"
     ],
-    "homepage": "https://github.com/Cityware/city-services",
+    "homepage": "https://github.com/cityware/city-services",
     "autoload": {
         "psr-4": {
             "Cityware\\Services\\": "src/"
